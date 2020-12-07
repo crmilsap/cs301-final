@@ -173,7 +173,7 @@ const QueryReader = (props) => {
   React.useEffect(() => {
     if (queryFile)
     read(queryFile, parseText);
-  }, [queryFile]);
+  }, [queryFile, parseText]);
   return (
     <input
       type="file"
