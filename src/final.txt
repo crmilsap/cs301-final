@@ -1,0 +1,21 @@
+FIND
+B = 550 
+Z ;
+FIND
+B = 550
+A F H ;
+FND
+B = 55
+A ;
+FIND
+I > 91
+B < 500
+I B ;
+FIND
+Y
+K ;
+SORT
+J = -1 ;
+FIND
+B = 2
+Z ;
